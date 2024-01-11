@@ -5,7 +5,7 @@ Welcome to my repository of notes for the IBM Cybersecurity Analyst Program! Thi
 
 ## Certificate
 
-<img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/IBM%20Cybersecurity%20Analyst.pdf" alt="Certification">
+<img src="https://github.com/DhruviRajput12/IBM-Cybersecurity-Analyst/blob/main/Screenshot%202024-01-11%20102529.png" alt="Certification">
 
 
 ## Usage
